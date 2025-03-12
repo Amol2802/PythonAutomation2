@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="12" time="0.104" timestamp="2025-03-05T20:51:31.901781+05:30" hostname="DESKTOP-6G9M66L"><testcase classname="test_Assertion" name="test_login" time="0.001" /><testcase classname="test_Assertion" name="test_logout" time="0.001"><failure message="assert False">def test_logout():
+        print("this is login test")
+        #assert "hrm123" == "hrm"
+&gt;       assert False
+E       assert False
+
+test_Assertion.py:11: AssertionError</failure></testcase><testcase classname="test_Assertion" name="test_method1" time="0.001" /><testcase classname="test_Fixture" name="test_vrifyTitle" time="0.001" /><testcase classname="test_Fixture" name="test_vrifyHomePage" time="0.001" /><testcase classname="test_demo" name="test_verifyHomePage" time="0.001" /><testcase classname="test_demo" name="test_verifytitle" time="0.001" /><testcase classname="test_demo" name="test_method2" time="0.001" /><testcase classname="test_fixture1" name="test_login" time="0.001" /><testcase classname="test_fixture1" name="test_vrifyTitle" time="0.001" /><testcase classname="test_login" name="test_loginApp" time="0.001" /><testcase classname="test_login" name="test_loginApp1" time="0.001" /></testsuite></testsuites>
