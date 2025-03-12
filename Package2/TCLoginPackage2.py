@@ -11,6 +11,13 @@ class loginThird (unittest.TestCase):
         print("this is login Third method 3")
         print("***********this is login Third method 3***************")
 
+    def testMethod4(self):
+        print("this is login Third method 3")
+        print("crated by test c"")
+
+    def testMethod5(self):
+        print("this is login Third method 3")
+        print("crated by test c")
 
 
 if __name__== "__main__":
