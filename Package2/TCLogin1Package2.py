@@ -16,6 +16,9 @@ class loginFourth  (unittest.TestCase):
     def testMethod4(self):
         print("this changes did by person B tester")
 
+    def testMethod4(self):
+        print("this changes did by person B tester")
+
 
 if __name__== "__main__":
     unittest.main()
